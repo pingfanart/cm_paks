@@ -12,7 +12,7 @@
                         <string>software-package</string>
                         <key>url</key>
                         <!-- 注意：IPA文件URL -->
-                        <string>https://tjc-download.weiyun.com/ftn_handler/71b8f85052d1180760adca5da6ff82fe5ee7a8c66aa67f5f351b30728a9f2a07fb76484f144409122712ead7cc31c53d8675b153b87d955a7e708f477e181ce6/CM-iOS-CN-1-1.ipa?fname=CM-iOS-CN-1-1.ipa&from=30013&version=3.3.3.3</string>
+                        <string>https://tjc-download.weiyun.com/ftn_handler/71b8f85052d1180760adca5da6ff82fe5ee7a8c66aa67f5f351b30728a9f2a07fb76484f144409122712ead7cc31c53d8675b153b87d955a7e708f477e181ce6/CM-iOS-CN-1-1.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
